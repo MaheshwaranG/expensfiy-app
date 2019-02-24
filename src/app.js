@@ -12,7 +12,7 @@ import 'react-dates/lib/css/_datepicker.css';
 import { firebase }from './firebase/firebase';
 import LoadingPage from './components/LoadingPage';
 
-// example Test sample
+// example
 
 const store = configureStore();
 const jsx = (
